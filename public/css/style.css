@@ -94,11 +94,12 @@ body a:hover{
     padding: 0;
 }
 .pro-pic {
-    width: 27%;
+    width: 20%;
+    height: 20%;
 }
 .pro-pic img {
-    border: 2px solid #10A7AF;
-    padding: 12px;
+    border: 1px solid #10A7AF;
+    padding: 1px;
     background: #fff;
 }
 
