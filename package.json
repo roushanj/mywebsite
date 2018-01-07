@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,10 +20,5 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "express-handlebars": "^3.0.0"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-imagemin": "^3.3.0",
-    "gulp-uglify": "^3.0.0"
   }
 }
